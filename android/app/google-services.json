@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "393576484737",
+    "project_id": "dietifyy-66388",
+    "storage_bucket": "dietifyy-66388.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393576484737:android:0f71832540840d53bfa280",
+        "android_client_info": {
+          "package_name": "com.example.dietifyy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393576484737-5pk5vbndo2l2mamjdr2b9ja8bd4l6v7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUHv7uwVOnA02pRHYxsXtt_ZSAGO2qu7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393576484737-5pk5vbndo2l2mamjdr2b9ja8bd4l6v7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
