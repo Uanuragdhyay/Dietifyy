@@ -120,10 +120,6 @@ flutter build ios   # iOS
 ## **🤝 Contributing**
 Got a feature request? Feel free to **fork, open an issue, or create a PR**! 🎉
 
----
-
-## **📜 License**
-This project is licensed under **MIT License**. Feel free to use and modify! 🎯
 
 ---
 
